@@ -1,0 +1,13 @@
+name = "Splatsville"
+author = "OctoFloofy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c528910831b22bcede4f966e4425a14a0323a045d98718a3ed56aa52b9e60538"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.19.4"
